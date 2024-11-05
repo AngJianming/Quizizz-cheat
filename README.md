@@ -1,6 +1,6 @@
 # Quizizz-cheat
 
-There are two methods for retrieving answers.
+There are two methods for retrieving correct answers.
 
 1. [Fetching Quizizz API](#fetching-quizizz-api)
 2. [Sending answers as someone else](#sending-answers-as-someone-else) (old method)
